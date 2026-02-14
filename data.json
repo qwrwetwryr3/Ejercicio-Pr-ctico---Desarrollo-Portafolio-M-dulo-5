@@ -1,0 +1,79 @@
+{
+  "lugares": [
+    {
+      "id": "1",
+      "nombre": "Santiago",
+      "temp": 28,
+      "estado": "soleado",
+      "pronostico": [
+        { "dia": "Lunes", "temp": 27, "estado": "soleado" },
+        { "dia": "Martes", "temp": 30, "estado": "soleado" },
+        { "dia": "Miércoles", "temp": 25, "estado": "lluvia" },
+        { "dia": "Jueves", "temp": 29, "estado": "soleado" },
+        { "dia": "Viernes", "temp": 31, "estado": "soleado" },
+        { "dia": "Sábado", "temp": 26, "estado": "nublado" },
+        { "dia": "Domingo", "temp": 28, "estado": "soleado" }
+      ]
+    },
+    {
+      "id": "2",
+      "nombre": "Valparaíso",
+      "temp": 22,
+      "estado": "nublado",
+      "pronostico": [
+        { "dia": "Lunes", "temp": 21, "estado": "nublado" },
+        { "dia": "Martes", "temp": 23, "estado": "soleado" },
+        { "dia": "Miércoles", "temp": 20, "estado": "lluvia" },
+        { "dia": "Jueves", "temp": 22, "estado": "nublado" },
+        { "dia": "Viernes", "temp": 24, "estado": "soleado" },
+        { "dia": "Sábado", "temp": 19, "estado": "lluvia" },
+        { "dia": "Domingo", "temp": 21, "estado": "nublado" }
+      ]
+    },
+    {
+      "id": "3",
+      "nombre": "Concepción",
+      "temp": 18,
+      "estado": "lluvia",
+      "pronostico": [
+        { "dia": "Lunes", "temp": 17, "estado": "lluvia" },
+        { "dia": "Martes", "temp": 18, "estado": "lluvia" },
+        { "dia": "Miércoles", "temp": 19, "estado": "nublado" },
+        { "dia": "Jueves", "temp": 20, "estado": "soleado" },
+        { "dia": "Viernes", "temp": 18, "estado": "lluvia" },
+        { "dia": "Sábado", "temp": 17, "estado": "lluvia" },
+        { "dia": "Domingo", "temp": 19, "estado": "nublado" }
+      ]
+    },
+    {
+      "id": "4",
+      "nombre": "Antofagasta",
+      "temp": 24,
+      "estado": "soleado",
+      "pronostico": [
+        { "dia": "Lunes", "temp": 23, "estado": "soleado" },
+        { "dia": "Martes", "temp": 25, "estado": "soleado" },
+        { "dia": "Miércoles", "temp": 24, "estado": "nublado" },
+        { "dia": "Jueves", "temp": 26, "estado": "soleado" },
+        { "dia": "Viernes", "temp": 27, "estado": "soleado" },
+        { "dia": "Sábado", "temp": 22, "estado": "nublado" },
+        { "dia": "Domingo", "temp": 24, "estado": "soleado" }
+      ]
+    },
+    {
+      "id": "5",
+      "nombre": "Puerto Montt",
+      "temp": 15,
+      "estado": "lluvia",
+      "pronostico": [
+        { "dia": "Lunes", "temp": 14, "estado": "lluvia" },
+        { "dia": "Martes", "temp": 15, "estado": "lluvia" },
+        { "dia": "Miércoles", "temp": 16, "estado": "nublado" },
+        { "dia": "Jueves", "temp": 15, "estado": "lluvia" },
+        { "dia": "Viernes", "temp": 17, "estado": "lluvia" },
+        { "dia": "Sábado", "temp": 14, "estado": "lluvia" },
+        { "dia": "Domingo", "temp": 16, "estado": "nublado" }
+      ]
+    }
+  ]
+}
